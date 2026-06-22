@@ -14,7 +14,4 @@ This project is a command-line Python application designed to collect user data,
 - Inputs for Age and Favourite Number are expected to be integers, and Height as a float value.
 
 ## Sample output 
-
-
-
-
+![output](output-python1.png)
