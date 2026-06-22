@@ -1,5 +1,5 @@
 # python-task-project1
-# PR. 1 Fundamental Booster - Personal Data Collector
+# 1. Fundamental Booster - Personal Data Collector
 
 This project is a command-line Python application designed to collect user data, analyze its properties (data types and memory addresses), and perform calculations like estimating the user's birth year.
 
@@ -15,3 +15,14 @@ This project is a command-line Python application designed to collect user data,
 
 ## Sample output 
 ![output](output-python1.png)
+
+## How to Run
+1. Ensure you have Python installed on your system.
+2. Run the program using the following command in your terminal:
+   ```bash
+   python program1.py
+
+## Video Demonstration
+video Link:[https://drive.google.com/file/d/1B1sXWGQK2nLEl6EpFB4YWKVgQHAirhlZ/view?usp=sharing]
+
+
